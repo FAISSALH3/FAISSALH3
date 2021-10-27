@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FAISSALH3
-- 🌱 I’m currently learning OS/ComputerNetwrks/SoftwareEngneering
-- 📫 How to reach me FaissalHamdi@hotmail.com
+- 👋 Hi, I’m Faissal Hamdi
+- 🌱 I’m currently learning OS/ComputerNetworks/SoftwareEngineering
+- 📫 How to reach me :  FaissalHamdi@hotmail.com
 
 <!---
 FAISSALH3/FAISSALH3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
